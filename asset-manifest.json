@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/greedyGame/static/css/main.8c05a5f2.chunk.css",
+    "main.js": "/greedyGame/static/js/main.f41454d6.chunk.js",
+    "main.js.map": "/greedyGame/static/js/main.f41454d6.chunk.js.map",
+    "runtime-main.js": "/greedyGame/static/js/runtime-main.66b0ab0f.js",
+    "runtime-main.js.map": "/greedyGame/static/js/runtime-main.66b0ab0f.js.map",
+    "static/css/2.5fd39d58.chunk.css": "/greedyGame/static/css/2.5fd39d58.chunk.css",
+    "static/js/2.5f94cd14.chunk.js": "/greedyGame/static/js/2.5f94cd14.chunk.js",
+    "static/js/2.5f94cd14.chunk.js.map": "/greedyGame/static/js/2.5f94cd14.chunk.js.map",
+    "static/js/3.5d637672.chunk.js": "/greedyGame/static/js/3.5d637672.chunk.js",
+    "static/js/3.5d637672.chunk.js.map": "/greedyGame/static/js/3.5d637672.chunk.js.map",
+    "index.html": "/greedyGame/index.html",
+    "static/css/2.5fd39d58.chunk.css.map": "/greedyGame/static/css/2.5fd39d58.chunk.css.map",
+    "static/css/main.8c05a5f2.chunk.css.map": "/greedyGame/static/css/main.8c05a5f2.chunk.css.map",
+    "static/js/2.5f94cd14.chunk.js.LICENSE.txt": "/greedyGame/static/js/2.5f94cd14.chunk.js.LICENSE.txt",
+    "static/media/asset1.6ce40959.svg": "/greedyGame/static/media/asset1.6ce40959.svg",
+    "static/media/icon1.75892e65.svg": "/greedyGame/static/media/icon1.75892e65.svg",
+    "static/media/icon2.2c236833.svg": "/greedyGame/static/media/icon2.2c236833.svg",
+    "static/media/icon3.0d357e94.svg": "/greedyGame/static/media/icon3.0d357e94.svg",
+    "static/media/icon4.39c608a8.svg": "/greedyGame/static/media/icon4.39c608a8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66b0ab0f.js",
+    "static/css/2.5fd39d58.chunk.css",
+    "static/js/2.5f94cd14.chunk.js",
+    "static/css/main.8c05a5f2.chunk.css",
+    "static/js/main.f41454d6.chunk.js"
+  ]
+}
